@@ -6,9 +6,9 @@
 
 | Course Code | Course Title |
 |------------|-------------|
-| — | Introduction of 2D Graphics |
-| — | Sciography |
-| — | Basics of Perspectives |
+| 24IDC101J | Introduction of 2D Graphics |
+| 24IDC103J | Sciography |
+| 24IDC105P | Basics of Perspectives |
 
 ---
 
@@ -16,9 +16,9 @@
 
 | Course Code | Course Title |
 |------------|-------------|
-| — | Computer Studio – I |
-| — | Materials, Construction and Finishes |
-| — | Interior Design Studio – I |
+| 24IDD107S | Computer Studio – I |
+| 24IDC104J | Materials, Construction and Finishes |
+| 24IDD106S | Interior Design Studio – I |
 
 ---
 
