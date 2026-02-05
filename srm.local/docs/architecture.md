@@ -6,7 +6,7 @@
 #### 25ARV109P Art Studio and Model Making Workshop 0 0 6 3 
 #### Discipline Elective Course - I 2 0 2 3 
 #### NSS / NCC  0 0 2 0 
-
+#### Total Learning Credits 19 
 
 ## SEM-2
 
@@ -22,3 +22,14 @@
     25GNM101P Physical and Mental Health Using 
     Yoga 0 0 2 0 
     Total Learning Credits 21
+
+## Semester III
+#### 25ARC201S Architectural Design Studio - II 0 0 14 7 
+#### 25ARC203P Building Materials & Construction - II 1 0 4 3 
+#### 25ARC205J Site Planning & Surveying 2 0 2 3 
+#### 25ARS209P Computer Studio - II 1 0 4 3 
+#### Discipline Elective Course - III 2 0 2 3 
+#### 25LEM101T Constitution of India 1 0 0 0 
+#### Total Learning Credits 19 
+
+
